@@ -4,7 +4,7 @@ A Clinicoradiomic, Machine Learning-Powered Predictor of Postoperative Outcomes
 
 ## Overview
 
-This repository contains five Lasso regression classifiers designed to predict the likelihood of specific postoperative complications in patients undergoing reconstructive surgery for extremity soft tissue sarcoma. The five complications of interest are:
+This repository contains five LASSO regression classifiers designed to predict the likelihood of specific postoperative complications in patients undergoing reconstructive surgery for extremity soft tissue sarcoma. The five complications of interest are:
 
 1. **Minor Complications**  
 2. **Major Complications**  
